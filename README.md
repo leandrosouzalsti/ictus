@@ -1,41 +1,41 @@
 <p align="center"></p>
 
 <p align="center">
-   <a href="https://themeselection.com/products/materio-free-vuetify-vuejs-admin-template" target="_blank">
-      <img src="https://github.com/themeselection/materio-vuetify-vuejs-admin-template-free/blob/main/src/assets/images/logos/logo.svg" alt="materio-logo" width="60px" height="auto">
+   <a href="https://themeselection.com/products/Ictus-free-vuetify-vuejs-admin-template" target="_blank">
+      <img src="https://github.com/themeselection/Ictus-vuetify-vuejs-admin-template-free/blob/main/src/assets/images/logos/logo.svg" alt="Ictus-logo" width="60px" height="auto">
    </a>
 </p>
 
 <h1 align="center">
-   <a href="https://themeselection.com/products/materio-free-vuetify-vuejs-admin-template" target="_blank" align="center">
-      Materio - Vuetify VueJS Free Admin Template
+   <a href="https://themeselection.com/products/Ictus-free-vuetify-vuejs-admin-template" target="_blank" align="center">
+      Ictus - Vuetify VueJS Free Admin Template
    </a>
 </h1>
 
 <p align="center">Production ready carefully crafted most comprehensive admin template</p>
 
 <p align="center">
-   <a href="https://github.com/themeselection/materio-vuetify-vuejs-admin-template-free/blob/main/LICENSE">
-      <img src="https://img.shields.io/github/license/themeselection/materio-vuetify-vuejs-admin-template-free" alt="license">
+   <a href="https://github.com/themeselection/Ictus-vuetify-vuejs-admin-template-free/blob/main/LICENSE">
+      <img src="https://img.shields.io/github/license/themeselection/Ictus-vuetify-vuejs-admin-template-free" alt="license">
    </a>
-   <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/themeselection/materio-vuetify-vuejs-admin-template-free/Deploy">
-   <a href="https://github.com/themeselection/materio-vuetify-vuejs-admin-template-free/releases">
-    <img src="https://img.shields.io/github/release/themeselection/materio-vuetify-vuejs-admin-template-free.svg" alt="GitHub release">
+   <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/themeselection/Ictus-vuetify-vuejs-admin-template-free/Deploy">
+   <a href="https://github.com/themeselection/Ictus-vuetify-vuejs-admin-template-free/releases">
+    <img src="https://img.shields.io/github/release/themeselection/Ictus-vuetify-vuejs-admin-template-free.svg" alt="GitHub release">
   </a>
    <a href="https://twitter.com/Theme_Selection" target="_blank">
       <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Theme_Selection">
    </a>
 </p>
 
-<kbd>[![Materio - Vuetify VueJS Free Admin Template Demo Screenshot](https://user-images.githubusercontent.com/47495003/129342383-2816d6fe-3a88-4189-b08f-f30b9abac2b0.png)](https://themeselection.com/products/materio-free-vuetify-vuejs-admin-template)</kbd>
+<kbd>[![Ictus - Vuetify VueJS Free Admin Template Demo Screenshot](https://user-images.githubusercontent.com/47495003/129342383-2816d6fe-3a88-4189-b08f-f30b9abac2b0.png)](https://themeselection.com/products/Ictus-free-vuetify-vuejs-admin-template)</kbd>
 
 ## Introduction
 
-If you’re a developer looking for an admin dashboard that is developer-friendly, rich with features, and highly customizable look no further than Materio. We’ve followed the highest industry standards to bring you one of the very best **[VueJS Admin Templates](https://themeselection.com/products/category/vuejs-admin-templates/)** that is not only fast and easy to use but highly scalable. Offering ultimate convenience and flexibility, you’ll be able to build whatever application you want with very little hassle.
+If you’re a developer looking for an admin dashboard that is developer-friendly, rich with features, and highly customizable look no further than Ictus. We’ve followed the highest industry standards to bring you one of the very best **[VueJS Admin Templates](https://themeselection.com/products/category/vuejs-admin-templates/)** that is not only fast and easy to use but highly scalable. Offering ultimate convenience and flexibility, you’ll be able to build whatever application you want with very little hassle.
 
 Build premium quality applications with ease. Use our innovative admin template to create eye-catching, high-quality, and high-performing single-page applications. Your apps will be completely responsive, ensuring they’ll look stunning and function flawlessly on desktops, tablets, and mobile devices.
 
-[View Demo](https://themeselection.com/demo/materio-vuetify-vuejs-admin-template-free/demo/)
+[View Demo](https://themeselection.com/demo/Ictus-vuetify-vuejs-admin-template-free/demo/)
 
 ## Installation ⚒️
 
@@ -82,10 +82,10 @@ Build premium quality applications with ease. Use our innovative admin template 
 
 ## What's in Premium Version 💎
 
-| Materio Free Version                                                                             | Materio Premium Version                                                                        |
+| Ictus Free Version                                                                             | Ictus Premium Version                                                                        |
 | ------------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------- |
-| [Demo](https://themeselection.com/demo/materio-vuetify-vuejs-admin-template-free/demo/)          | [Demo](https://themeselection.com/demo/materio-vuetify-vuejs-admin-template/landing)           |
-| [Download](https://themeselection.com/products/materio-free-vuetify-vuejs-admin-template)        | [Purchase](https://themeselection.com/products/materio-vuetify-vuejs-admin-template)           |
+| [Demo](https://themeselection.com/demo/Ictus-vuetify-vuejs-admin-template-free/demo/)          | [Demo](https://themeselection.com/demo/Ictus-vuetify-vuejs-admin-template/landing)           |
+| [Download](https://themeselection.com/products/Ictus-free-vuetify-vuejs-admin-template)        | [Purchase](https://themeselection.com/products/Ictus-vuetify-vuejs-admin-template)           |
 | Single vertical menu                                                                             | Vertical (+ vertical collapsed) & Horizontal menu                                              |
 | Simple Light/Dark theme                                                                          | 3 Skin variants w/ light/dark theme support: Default, Bordered & Semi-dark                     |
 | 1 Simple Dashboard                                                                               | 3 Niche Dashboards                                                                             |
@@ -109,11 +109,11 @@ Build premium quality applications with ease. Use our innovative admin template 
 
 ## Documentation 📜
 
-Check GitHub [Wiki](https://github.com/themeselection/materio-vuetify-vuejs-admin-template-free/wiki) of this repo
+Check GitHub [Wiki](https://github.com/themeselection/Ictus-vuetify-vuejs-admin-template-free/wiki) of this repo
 
 ## Browser Support 🖥️
 
-- Materio Vuetify VueJS Free Admin Template is built to work best in the latest desktop and mobile and tablet browsers
+- Ictus Vuetify VueJS Free Admin Template is built to work best in the latest desktop and mobile and tablet browsers
 
 - Chrome (latest)
 - FireFox (latest)
@@ -160,7 +160,7 @@ Please refer to the [CHANGELOG](CHANGELOG.md) file. We will add a detailed relea
 
 **[ThemeSelection](https://themeselection.com/)** provides Selected high quality, modern design, professional and easy-to-use Free and Premium [Bootstrap Admin Templates](https://themeselection.com/products/category/bootstrap-admin-templates/), [VueJS Admin Templates](https://themeselection.com/products/category/vuejs-admin-templates/), [Laravel Admin Templates](https://themeselection.com/products/category/laravel-admin-templates/), HTML Themes, and [Free UI Kits](https://themeselection.com/products/category/free-ui-kits/) to create your applications faster!.
 
-If you want to [Download Free Admin Templates](https://themeselection.com/products/category/download-free-admin-templates/) like Materio then do visit [ThemeSelection](https://themeselection.com/).
+If you want to [Download Free Admin Templates](https://themeselection.com/products/category/download-free-admin-templates/) like Ictus then do visit [ThemeSelection](https://themeselection.com/).
 
 ## Useful Links 🔗
 
