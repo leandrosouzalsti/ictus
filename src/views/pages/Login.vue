@@ -26,7 +26,7 @@
         <!-- title -->
         <v-card-text>
           <p class="text-2xl font-weight-semibold text-center text--primary mb-2">
-            Igreja Neo Restaurada Ictus
+            Igreja Neo Restaurada Ictus.
           </p>
         </v-card-text>
 
