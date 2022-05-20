@@ -47,19 +47,19 @@
         :to="{ name: 'pages-account-settings'}"
         :icon="icons.mdiAccountCogOutline"
       ></nav-menu-link>
-      <nav-menu-section-title title="USER INTERFACE"></nav-menu-section-title>
+      <nav-menu-section-title title="SISTEMA"></nav-menu-section-title>
       <nav-menu-link
-        title="Typography"
+        title="Cadastro de Membros "
         :to="{ name: 'typography' }"
         :icon="icons.mdiAlphaTBoxOutline"
       ></nav-menu-link>
       <nav-menu-link
-        title="Icons"
+        title="Contas a Pagar"
         :to="{ name: 'icons' }"
         :icon="icons.mdiEyeOutline"
       ></nav-menu-link>
       <nav-menu-link
-        title="Cards"
+        title="Contas a Receber"
         :to="{ name: 'cards' }"
         :icon="icons.mdiCreditCardOutline"
       ></nav-menu-link>
